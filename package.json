@@ -1,0 +1,24 @@
+{
+  "name": "polymer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "polymer serve --npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaswanthsvist/polymer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaswanthsvist/polymer/issues"
+  },
+  "homepage": "https://github.com/yaswanthsvist/polymer#readme",
+  "dependencies": {
+    "@polymer/polymer": "^3.1.0",
+    "polymer-cli": "^1.9.6"
+  }
+}
